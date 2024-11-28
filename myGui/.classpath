@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-17">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="/Users/ahmetnecc/.p2/pool/plugins/org.eclipse.osgi_3.18.500.v20230801-1826.jar" sourcepath="/Users/ahmetnecc/.p2/pool/plugins/org.eclipse.osgi_3.18.500.v20230801-1826.jar"/>
+	<classpathentry kind="lib" path="/Users/ahmetnecc/.p2/pool/plugins/org.eclipse.core.commands_3.11.100.v20230708-0916.jar" sourcepath="/Users/ahmetnecc/.p2/pool/plugins/org.eclipse.core.commands_3.11.100.v20230708-0916.jar"/>
+	<classpathentry kind="lib" path="/Users/ahmetnecc/.p2/pool/plugins/org.eclipse.equinox.common_3.18.100.v20230730-1117.jar" sourcepath="/Users/ahmetnecc/.p2/pool/plugins/org.eclipse.equinox.common_3.18.100.v20230730-1117.jar"/>
+	<classpathentry kind="lib" path="/Users/ahmetnecc/.p2/pool/plugins/org.eclipse.equinox.registry_3.11.300.v20230801-1826.jar" sourcepath="/Users/ahmetnecc/.p2/pool/plugins/org.eclipse.equinox.registry_3.11.300.v20230801-1826.jar"/>
+	<classpathentry kind="lib" path="/Users/ahmetnecc/.p2/pool/plugins/org.eclipse.core.runtime_3.29.0.v20230726-0617.jar" sourcepath="/Users/ahmetnecc/.p2/pool/plugins/org.eclipse.core.runtime_3.29.0.v20230726-0617.jar"/>
+	<classpathentry kind="lib" path="/Users/ahmetnecc/.p2/pool/plugins/org.eclipse.text_3.13.100.v20230801-1334.jar" sourcepath="/Users/ahmetnecc/.p2/pool/plugins/org.eclipse.text_3.13.100.v20230801-1334.jar"/>
+	<classpathentry kind="lib" path="/Users/ahmetnecc/Downloads/opencsv-5.9.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

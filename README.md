@@ -1,4 +1,4 @@
-# 🏀 NBA Game Simulation - COMP 132 Advanced Programming Project
+# 🏀 NBA Game Simulation - Advanced Programming Project
 
 **Experience the thrill of managing your own NBA fantasy team! This Java Swing application allows users to sign up, draft players, simulate seasons and playoffs, and track their team's progress.**
 

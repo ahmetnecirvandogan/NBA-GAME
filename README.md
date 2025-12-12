@@ -1,4 +1,4 @@
-# 🏀 NBA Game Simulation - Advanced Programming Project
+# 🏀 NBA Simulation Game
 
 **Experience the thrill of managing your own NBA fantasy team! This Java Swing application allows users to sign up, draft players, simulate seasons and playoffs, and track their team's progress.**
 
